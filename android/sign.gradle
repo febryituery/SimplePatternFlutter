@@ -6,19 +6,19 @@ android {
             keyAlias 'key'
             keyPassword '123456'
             storeFile file('key.jks')
-            storePassword 'kesan123'
+            storePassword '123456'
         }
         tes {
             keyAlias 'key'
             keyPassword '123456'
             storeFile file('key.jks')
-            storePassword 'kesan123'
+            storePassword '123456'
         }
         release {
             keyAlias 'key'
             keyPassword '123456'
             storeFile file('key.jks')
-            storePassword 'kesan123'
+            storePassword '123456'
         }
     }
 }
